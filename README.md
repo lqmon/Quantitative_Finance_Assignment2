@@ -14,6 +14,5 @@ and put the .csv or the .zip in `data/`.
 ## Run
     pip install -r requirements.txt
     python assignment2_final.py      # or run assignment2.ipynb
-    python build_report.py
 
 The Q1 random seed is 2024. Strikes, rate and the other inputs are in the CONFIG block at the top of `assignment2_final.py`.
