@@ -4,7 +4,6 @@
 |---|---|
 | `assignment2_final.py` | All computations. Writes every table to `tables/` and every figure to `figs/`. |
 | `assignment2.ipynb` | The same code as a notebook (run all cells). |
-| `build_report.py` | Builds `Assignment2_Report.pdf` from `tables/` and `figs/`. Group names go in `AUTHORS` at the top. |
 | `requirements.txt` | Python packages, with the versions we tested. |
 
 ## Data
