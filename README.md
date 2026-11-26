@@ -2,7 +2,7 @@
 
 | File | What it does |
 |---|---|
-| `assignment2_final.py` | All computations. Writes every table to `tables/` and every figure to `figs/`. |
+| `assignment2.py` | All computations. Writes every table to `tables/` and every figure to `figs/`. |
 | `assignment2.ipynb` | The same code as a notebook (run all cells). |
 | `requirements.txt` | Python packages, with the versions we tested. |
 
@@ -15,4 +15,4 @@ and put the .csv or the .zip in `data/`.
     pip install -r requirements.txt
     python assignment2_final.py      # or run assignment2.ipynb
 
-The Q1 random seed is 2024. Strikes, rate and the other inputs are in the CONFIG block at the top of `assignment2_final.py`.
+The Q1 random seed is 2024. Strikes, rate and the other inputs are in the CONFIG block at the top of `assignment2.py`.
